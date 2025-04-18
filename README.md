@@ -14,12 +14,6 @@ This project is a real-time object detection system built with **Flask**, **Open
 
 ---
 
-## 📸 Demo
-
-> *You can add a GIF or a video demo here.*
-
----
-
 ## 🧠 Tech Stack
 
 - **Python**
